@@ -12,7 +12,7 @@ function App() {
     setShowProductList(true);
   };
 
-  const handleHomeClick = () => {
+  const handleHomeClick = () => { // CX DOUBLE CHECK THIS
     setShowProductList(false);
   };
 
